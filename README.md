@@ -1,5 +1,5 @@
 # Mindmapper
-Mindmapping software to store and retrieve mind maps from Web Server
+Mindmapping software to store and read mind maps from Web Server
 
 Objective :
 1)use Flask-Dance oauth2 for sign up . (linking github or gmail or facebook).
