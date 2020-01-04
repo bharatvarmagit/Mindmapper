@@ -8,3 +8,9 @@ Objective :
 4)convert Json object into MindMap and vice versa 
 
 use coggle.it as reference 
+
+
+
+Milestone 1:
+>Use Flask-dance to login (gmail,facebook,github,twitter)
+>compare bootstrap and flask-bootstrap
